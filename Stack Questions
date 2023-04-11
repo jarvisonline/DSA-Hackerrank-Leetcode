@@ -11,7 +11,7 @@ class Solution:
             stack.append(i)
             
         return result
-        
+2.NGEL
 class Solution:
     def nextLargerElement(self, arr, n):
         stack = []
